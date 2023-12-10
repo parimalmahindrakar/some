@@ -1,0 +1,10 @@
+[Desktop Entry]
+version=1.0
+Type=Application
+Name=printname
+Comment=Prints the provided name onto the console
+Exec=printname
+Categories=Utility;
+Terminal=true
+StartupNotify=true
+StartupWMClass=printname
